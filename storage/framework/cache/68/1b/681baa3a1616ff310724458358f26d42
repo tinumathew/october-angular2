@@ -1,0 +1,63 @@
+1477911028a:1:{s:9:"index.htm";a:9:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:1128:"title = "first page"
+url = "/"
+layout = "custom"
+
+is_hidden = 0
+==
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <base href="/" />
+    <title>Angular 2 User Registration</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- bootstrap css -->
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- application css -->
+    <link href="themes/reg/assets/css/app.css" rel="stylesheet" />
+
+    <!-- polyfill(s) for older browsers -->
+    <script src="themes/reg/assets/js/node_modules/core-js/client/shim.min.js"></script>
+
+    <script src="themes/reg/assets/js/node_modules/zone.js/dist/zone.js"></script>
+    <script src="themes/reg/assets/js/node_modules/reflect-metadata/Reflect.js"></script>
+    <script src="themes/reg/assets/js/node_modules/systemjs/dist/system.src.js"></script>
+
+    <script src="themes/reg/assets/js/systemjs.config.js"></script>
+    <script>
+        System.import('app').catch(function (err) { console.error(err); });
+    </script>
+</head>
+<body>
+    <app>Loading...</app>
+</body>
+</html>";s:5:"mtime";i:1477893981;s:6:"markup";s:1055:"﻿<!DOCTYPE html>
+<html>
+<head>
+    <base href="/" />
+    <title>Angular 2 User Registration</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- bootstrap css -->
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- application css -->
+    <link href="themes/reg/assets/css/app.css" rel="stylesheet" />
+
+    <!-- polyfill(s) for older browsers -->
+    <script src="themes/reg/assets/js/node_modules/core-js/client/shim.min.js"></script>
+
+    <script src="themes/reg/assets/js/node_modules/zone.js/dist/zone.js"></script>
+    <script src="themes/reg/assets/js/node_modules/reflect-metadata/Reflect.js"></script>
+    <script src="themes/reg/assets/js/node_modules/systemjs/dist/system.src.js"></script>
+
+    <script src="themes/reg/assets/js/systemjs.config.js"></script>
+    <script>
+        System.import('app').catch(function (err) { console.error(err); });
+    </script>
+</head>
+<body>
+    <app>Loading...</app>
+</body>
+</html>";s:4:"code";N;s:5:"title";s:10:"first page";s:3:"url";s:1:"/";s:6:"layout";s:6:"custom";s:9:"is_hidden";s:1:"0";}}
